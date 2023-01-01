@@ -1,0 +1,1 @@
+return { path = "D:\\DevEnv", documents = {["type"]="leaf",["active_view"]=1,["views"]={[1]={["type"]="view",["active"]=true,["module"]="core.emptyview",["scroll"]={["y"]=0,["to"]={["y"]=0,["x"]=0},["x"]=0}}}}, directories = {} }
